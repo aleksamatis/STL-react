@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
-import User from './User';
-import UserEdit from './UserEdit';
+import User from './user';
+import UserEdit from './userEdit';
 import ArrowDropUpIcon from '@material-ui/icons/ArrowDropUp';
 import ArrowDropDownIcon from '@material-ui/icons/ArrowDropDown';
 
